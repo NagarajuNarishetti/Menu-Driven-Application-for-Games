@@ -1,5 +1,0 @@
-paper rock scissors is one of the famous two-player game played by many people.
-It is a hand game in which the player randomly chooses any of the three forms i.e. paper, rock, and scissors.
-paper vs. rock: paper drinks the rock hence wins.
-rock vs. scissors: The scissors will drown in rock, hence a point for rock
-scissors vs. paper: scissors will kill the paper and win.
